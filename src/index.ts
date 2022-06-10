@@ -1,3 +1,1 @@
-export const func = (): void => {
-  console.log('Hello World')
-}
+export const func = (name: string) => `Hello ${name}`
