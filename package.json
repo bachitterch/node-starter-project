@@ -1,0 +1,8 @@
+{
+  "name": "Reddit-twitch-widget",
+  "version": "1.0.0",
+  "description": "Reddit Twitch Streans Sidebar Widget",
+  "main": "index.ts",
+  "author": "Bachitter Chahal",
+  "license": "MIT"
+}
