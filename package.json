@@ -2,7 +2,8 @@
   "name": "node-starter-project",
   "version": "1.0.0",
   "description": "Node Starter Project with TypeScript, Eslint and Prettier.",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "author": "Bachitter Chahal",
   "license": "MIT",
   "scripts": {
